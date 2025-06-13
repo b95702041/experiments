@@ -1,4 +1,4 @@
-# 🧪 experimentsPublic
+# 🧪 experiments
 
 > Early experiments: **TypeScript password generator** and **Python weather parser**.
 
@@ -16,8 +16,8 @@
 
 ```bash
 # Clone and explore
-git clone https://github.com/yourusername/experimentsPublic.git
-cd experimentsPublic
+git clone https://github.com/b95702041/experiments.git
+cd experiments
 
 # TypeScript project
 cd password-generator
@@ -31,7 +31,7 @@ pip install requests
 ## Structure
 
 ```
-experimentsPublic/
+experiments/
 ├── password-generator/     # TypeScript password tool
 ├── weather-parser/         # Python weather code
 └── README.md
